@@ -2,7 +2,7 @@
 
 ## 🚀 ¿Qué es COMPOSA?
 
-**COMPOSA** es una plataforma de microapps componibles orientada a la productividad, automatización y asistencia inteligente. Nuestra misión es crear el "Shopify" de las microaplicaciones: un entorno donde usuarios, empresas y desarrolladores puedan descubrir, componer y ejecutar microapps para resolver tareas complejas de manera ágil, segura y escalable.
+**COMPOSA** es una plataforma de microapps componibles orientada a la productividad, automatización y asistencia inteligente. Nuestra misión es crear un entorno donde usuarios, empresas y desarrolladores puedan descubrir, componer y ejecutar microapps para resolver tareas complejas de manera ágil, segura y escalable.
 
 Cada microapp es un módulo independiente, declarativo y aislado, que expone sus entradas y salidas mediante esquemas JSON y puede ser ejecutado tanto por personas como por agentes inteligentes (IA). COMPOSA facilita la orquestación y composición de microapps, permitiendo a usuarios y agentes resolver flujos o problemas end-to-end sin fricción.
 
