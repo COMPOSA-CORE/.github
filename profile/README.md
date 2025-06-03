@@ -1,4 +1,4 @@
-# COMPOSA Platform · Organizational Overview
+# COMPOSA Platform
 
 ## 🚀 ¿Qué es COMPOSA?
 
