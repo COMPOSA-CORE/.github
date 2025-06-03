@@ -16,7 +16,7 @@ Cada microapp es un módulo independiente, declarativo y aislado. COMPOSA facili
 
 *Nota: Actualmente el proyecto es privado mientras maduro la plataforma y afino la visión. Pronto abriré espacios de colaboración.*
 
-## 🌱 ¿Por qué unirte y seguirnos?
+## 🌱 ¿Por qué unirte y SEGUIRME?
 
 - **Aprende**: Documentaré cada etapa, desde la idea hasta el producto y el crecimiento de la startup.
 - **Participa**: Tu feedback y tus ideas pueden influir en la hoja de ruta.
